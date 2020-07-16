@@ -1,6 +1,6 @@
 # MS-Kinect-Visuals
 
-University project made with Pedro Querejeta Simbeni.
+University project made with Pedro Querejeta Simbeni. Circa 2016.
 
 Use of MS Kinect sensor to synthesize some visuals and sounds.
 
